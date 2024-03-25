@@ -1,17 +1,1 @@
-# untitled
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# zadanie
+<img width="484" alt="Снимок экрана 2024-03-26 в 00 23 08" src="https://github.com/Cracksssss/Labaratory1/assets/144316503/0e551685-ef9a-40f9-a079-523613b39456">
